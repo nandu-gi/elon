@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+    background-color: plum;
+}
+
+
+
+#picture {
+    width: 200px;
+}
+
+
+
+#paragraph {
+    color: lavender;
+    text-align: center;
+    font-size: 20px;
+    background-color: palevioletred;
+}
+
+h1 {
+    font-size: 25px;
+    font-weight: 10;
+    font-family: sans-serif;
+    line-height: 1.2;
+    color: orangered;
+}
+
+#welcome {
+    background-color: plum;
+}
+
+#video {
+    background-color: aqua;
+}
+
+#contact {
+    background-color: peru;
+}
